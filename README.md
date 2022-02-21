@@ -3,8 +3,11 @@ Create Simple API with jsonwebtoken protection
 You need MongoDB server already installed
 
 Create .env file in root with:
+
 MONGO_URI = "mongodb://localhost/node-api"
+
 PORT = 8050
+
 TOKEN_KEY=XXXX-FIND SOME TOOL OR SCRIPT TO GENERATE BIG TOKEN KEY-XXXX
 
 1. npm init
